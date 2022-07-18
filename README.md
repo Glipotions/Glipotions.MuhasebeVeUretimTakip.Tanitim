@@ -2,8 +2,7 @@
 
 ### Firmalar için yaptığım ve kodu private olarak tuttuğum şu ana dek yani 2022 temmuz ayına kadar ki süreçte yaptığım en kapsamlı, en detaylı proje
 
-#### Proje Tanım: Bir firmanın muhasebe, üretim, ürün ve ürünleri oluşturan malzemelerinin takibini tek bir program üzerinden dinamik bir yapı ile rahatça kontrol edip
-yönetebilmeyi sağlar.
+#### Proje Tanım: Bir firmanın muhasebe, üretim, ürün ve ürünleri oluşturan malzemelerinin takibini tek bir program üzerinden dinamik bir yapı ile rahatça kontrol edip yönetebilmeyi sağlar.
 
 #### Projede Yer Alan Bölümler:
 #####   - Cari Hesap Kartları
