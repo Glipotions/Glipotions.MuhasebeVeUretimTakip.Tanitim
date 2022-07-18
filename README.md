@@ -1,4 +1,4 @@
-# Glipotions Muhasebe ve Üretim Takip Programı Tanıtımı
+# Muhasebe ve Üretim Takip Programı Tanıtımı
 
 ### Firmalar için yaptığım ve kodu private olarak tuttuğum şu ana dek yani 2022 temmuz ayına kadar ki süreçte yaptığım en kapsamlı, en detaylı proje
 
